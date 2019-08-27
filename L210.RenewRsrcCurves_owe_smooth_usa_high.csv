@@ -1,0 +1,31 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+SmthRenewRsrcCurves,,,,,
+,,,,,
+region,renewresource,smooth.renewable.subresource,maxSubResource,mid.price,curve.exponent
+CA,offshore wind resource,offshore wind resource,6.689376023,6.008344158,2.939688794
+CT,offshore wind resource,offshore wind resource,0.058832211,7.306246065,8.830757656
+DE,offshore wind resource,offshore wind resource,0.157380577,5.438971088,8.702527578
+GA,offshore wind resource,offshore wind resource,0.567006905,7.930539535,8.102413089
+HI,offshore wind resource,offshore wind resource,6.782461555,7.930539535,3.283140221
+IL,offshore wind resource,offshore wind resource,0.225370586,7.209216942,6.892512284
+IN,offshore wind resource,offshore wind resource,0.029456383,5.546212645,7.628378263
+LA,offshore wind resource,offshore wind resource,2.778855788,10.44486546,5.968286093
+ME,offshore wind resource,offshore wind resource,2.003252097,3.906312452,7.331892421
+MA,offshore wind resource,offshore wind resource,2.579061123,3.534159289,6.191850939
+MD,offshore wind resource,offshore wind resource,0.572646695,6.008344158,9.21946364
+MI,offshore wind resource,offshore wind resource,5.344769422,6.844155767,7.019240547
+MN,offshore wind resource,offshore wind resource,0.18057393,13.16091028,59.92322695
+NH,offshore wind resource,offshore wind resource,0.038686859,5.634705914,10.35232621
+NJ,offshore wind resource,offshore wind resource,1.131923399,5.546212645,10.88539266
+NY,offshore wind resource,offshore wind resource,1.722594296,4.80027532,3.962386561
+NC,offshore wind resource,offshore wind resource,3.383920473,5.546212645,8.606486484
+OH,offshore wind resource,offshore wind resource,0.478882918,5.217700562,12.08426682
+OR,offshore wind resource,offshore wind resource,2.706334638,4.80027532,3.733699026
+PA,offshore wind resource,offshore wind resource,0.102563607,5.217700562,9.103028611
+RI,offshore wind resource,offshore wind resource,0.326264521,3.534159289,8.845404675
+SC,offshore wind resource,offshore wind resource,1.378629325,6.008344158,6.23816193
+TX,offshore wind resource,offshore wind resource,2.915195921,6.917649312,5.758453451
+VA,offshore wind resource,offshore wind resource,1.032381128,5.438971088,9.136541074
+WA,offshore wind resource,offshore wind resource,1.279661402,7.930539535,54.7798306
+WI,offshore wind resource,offshore wind resource,1.243249402,6.954396084,7.354126628

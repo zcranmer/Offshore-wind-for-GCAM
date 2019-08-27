@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+GlobalIntTechShrwt,,,,
+,,,,
+sector.name,subsector.name,intermittent.technology,year,share.weight
+electricity,offshore wind,offshore wind global,1975,0
+electricity,offshore wind,offshore wind global,1990,0
+electricity,offshore wind,offshore wind global,2005,0
+electricity,offshore wind,offshore wind global,2010,0
+electricity,offshore wind,offshore wind global,2015,1
+electricity,offshore wind,offshore wind global,2020,1
+electricity,offshore wind,offshore wind global,2025,1
+electricity,offshore wind,offshore wind global,2030,1
+electricity,offshore wind,offshore wind global,2035,1
+electricity,offshore wind,offshore wind global,2040,1
+electricity,offshore wind,offshore wind global,2045,1
+electricity,offshore wind,offshore wind global,2050,1
+electricity,offshore wind,offshore wind global,2055,1
+electricity,offshore wind,offshore wind global,2060,1
+electricity,offshore wind,offshore wind global,2065,1
+electricity,offshore wind,offshore wind global,2070,1
+electricity,offshore wind,offshore wind global,2075,1
+electricity,offshore wind,offshore wind global,2080,1
+electricity,offshore wind,offshore wind global,2085,1
+electricity,offshore wind,offshore wind global,2090,1
+electricity,offshore wind,offshore wind global,2095,1
+electricity,offshore wind,offshore wind global,2100,1

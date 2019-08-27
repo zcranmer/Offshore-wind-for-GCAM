@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+GlobalIntTechCapital,,,,,,,
+,,,,,,,
+sector.name,subsector.name,intermittent.technology,year,input.capital,capital.overnight,fixed.charge.rate,capacity.factor
+electricity,offshore wind,offshore wind global,1975,capital,1294.249598,0.13,0.550029121
+electricity,offshore wind,offshore wind global,1990,capital,1294.249598,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2005,capital,1294.249598,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2010,capital,1294.249598,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2015,capital,1294.249598,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2020,capital,970.6871989,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2025,capital,728.0153991,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2030,capital,546.0115493,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2035,capital,518.7109719,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2040,capital,492.7754232,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2045,capital,468.1366522,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2050,capital,444.7298196,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2055,capital,422.4933286,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2060,capital,401.3686621,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2065,capital,381.3002291,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2070,capital,362.2352176,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2075,capital,344.1234567,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2080,capital,326.9172839,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2085,capital,310.5714197,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2090,capital,295.0428487,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2095,capital,280.2907062,0.13,0.550029121
+electricity,offshore wind,offshore wind global,2100,capital,266.276171,0.13,0.550029121

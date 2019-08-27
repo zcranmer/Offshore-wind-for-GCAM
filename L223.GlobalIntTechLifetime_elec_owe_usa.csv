@@ -1,0 +1,24 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+GlobalIntTechLifetime,,,,
+,,,,
+sector.name,subsector.name,intermittent.technology,year,lifetime
+electricity,offshore wind,offshore wind usa,2010,30
+electricity,offshore wind,offshore wind usa,2015,30
+electricity,offshore wind,offshore wind usa,2020,30
+electricity,offshore wind,offshore wind usa,2025,30
+electricity,offshore wind,offshore wind usa,2030,30
+electricity,offshore wind,offshore wind usa,2035,30
+electricity,offshore wind,offshore wind usa,2040,30
+electricity,offshore wind,offshore wind usa,2045,30
+electricity,offshore wind,offshore wind usa,2050,30
+electricity,offshore wind,offshore wind usa,2055,30
+electricity,offshore wind,offshore wind usa,2060,30
+electricity,offshore wind,offshore wind usa,2065,30
+electricity,offshore wind,offshore wind usa,2070,30
+electricity,offshore wind,offshore wind usa,2075,30
+electricity,offshore wind,offshore wind usa,2080,30
+electricity,offshore wind,offshore wind usa,2085,30
+electricity,offshore wind,offshore wind usa,2090,30
+electricity,offshore wind,offshore wind usa,2095,30
+electricity,offshore wind,offshore wind usa,2100,30

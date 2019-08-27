@@ -1,0 +1,35 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+SmthRenewRsrcCurves,,,,,
+,,,,,
+region,renewresource,smooth.renewable.subresource,maxSubResource,mid.price,curve.exponent
+Africa_Eastern,offshore wind resource,offshore wind resource,11.81320747,2.66150172,1.930632873
+Africa_Northern,offshore wind resource,offshore wind resource,8.516038483,2.499867585,1.727546157
+Africa_Southern,offshore wind resource,offshore wind resource,11.79461784,5.705718029,1.813693566
+Africa_Western,offshore wind resource,offshore wind resource,2.202011949,5.211414235,2.146086107
+Argentina,offshore wind resource,offshore wind resource,42.75720628,3.208548119,2.708345329
+Australia_NZ,offshore wind resource,offshore wind resource,116.4930183,4.761528071,2.873241969
+Brazil,offshore wind resource,offshore wind resource,10.69832814,8.104951578,4.772439358
+Canada,offshore wind resource,offshore wind resource,149.9184219,4.281995179,2.255454589
+Central America and Caribbean,offshore wind resource,offshore wind resource,11.08844388,6.122322119,4.127494176
+China,offshore wind resource,offshore wind resource,34.52501522,6.122322119,6.002676539
+Colombia,offshore wind resource,offshore wind resource,1.726674859,2.499867585,9.79708878
+EU-12,offshore wind resource,offshore wind resource,4.285083289,6.122322119,5.866239993
+EU-15,offshore wind resource,offshore wind resource,80.76016753,3.078227451,2.217427788
+Europe_Eastern,offshore wind resource,offshore wind resource,1.115730584,5.983743691,15.72272754
+Europe_Non_EU,offshore wind resource,offshore wind resource,0.045570048,8.583344748,58.40612262
+European Free Trade Association,offshore wind resource,offshore wind resource,70.87135189,4.281995179,2.489183533
+India,offshore wind resource,offshore wind resource,3.794581902,8.104951578,3.350218285
+Indonesia,offshore wind resource,offshore wind resource,13.66303173,6.742087016,3.959691238
+Japan,offshore wind resource,offshore wind resource,22.20568164,8.264415968,10.28290563
+Mexico,offshore wind resource,offshore wind resource,8.356197018,6.742087016,5.514876637
+Middle East,offshore wind resource,offshore wind resource,4.40607577,4.911490126,2.327793878
+Pakistan,offshore wind resource,offshore wind resource,0.220156339,6.207373408,18.46512909
+Russia,offshore wind resource,offshore wind resource,137.0493296,5.211414235,3.262975179
+South Africa,offshore wind resource,offshore wind resource,11.88708523,8.104951578,7.219459485
+South America_Northern,offshore wind resource,offshore wind resource,6.3848762,6.407650098,2.432167996
+South America_Southern,offshore wind resource,offshore wind resource,11.36264736,4.281995179,1.781709308
+South Asia,offshore wind resource,offshore wind resource,1.073557919,4.761528071,3.099021088
+South Korea,offshore wind resource,offshore wind resource,9.42249762,9.968588931,7.46069153
+Southeast Asia,offshore wind resource,offshore wind resource,26.82030192,6.742087016,3.622289973
+Taiwan,offshore wind resource,offshore wind resource,7.219811759,5.983743691,5.77728958
